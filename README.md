@@ -1,7 +1,5 @@
-# JavaTask2
+# JavaSecond
 About java variables and data types
-# Java Developer Internship - Task 2
-
 # Description
 This project demonstrates:
 - Java primitive data types
@@ -10,7 +8,6 @@ This project demonstrates:
 - Type casting
 - Variable scope (local, instance, static)
 - Formatted output
-
 *How to Run
 1. Compile:
    javac Task2.java
